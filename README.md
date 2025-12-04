@@ -11,7 +11,15 @@ Welcome to the Login Screen project! 🎉 This is a sleek and responsive login p
 ## 🔗 Live Demo
 Check out the live version here: [https://iam269.github.io/loginscreen/](https://iam269.github.io/loginscreen/) 🌐
 
-## 📁 Project Structure
+## 📸 Screenshots
+
+### Desktop View
+![Desktop](screenshots/desktop.png)
+
+### Mobile View
+![Mobile](screenshots/mobile.png)
+
+##  Project Structure
 - `index.html` - Main login page
 - `style.css` - Styling for the login screen
 - `person-working.svg` - Illustration image
